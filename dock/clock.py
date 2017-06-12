@@ -16,7 +16,7 @@ if __name__=="__main__":
 
     fmt = '^fg(#5f656b)%a ^fg(#007b8c)%d ^fg()%h^fg(#444) ^fg()%Y^fg(#007b8c) ^fg(#a488d9)| ^fg()%H^fg(#444):^fg()%M^fg(#444):^fg()%S'
     args = [ "-x", DOCK_POS['CLx'],
-             "-y", "0",
+             "-y", "780",
              "-w", DOCK_POS['CLw'],
              "-h", str(HEIGHT),
              "-ta", "r",
